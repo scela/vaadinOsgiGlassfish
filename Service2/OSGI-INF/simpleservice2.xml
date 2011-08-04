@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<component name="decl-service-2" immediate="true">
+	<implementation class="example2.ui.impl.UIImpl"/>
+	<service>
+		<provide interface="example2.ui.api.UiInterface"/>
+	</service>
+</component> 

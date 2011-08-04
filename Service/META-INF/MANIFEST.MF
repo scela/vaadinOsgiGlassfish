@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Version: 1.0.0.qualifier
+Bundle-SymbolicName: example.services.declarative
+Bundle-Name: Services definition bundle for OSGi Declarative Services in GlassFish
+Export-Package: example.services.api
+Service-Component: OSGI-INF/simpleservice.xml
+

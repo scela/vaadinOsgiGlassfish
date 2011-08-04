@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: VaadinWebModule
+Bundle-SymbolicName: VaadinWebModule
+Bundle-Version: 1.0.0.qualifier
+Export-Package: com.example.vaadinwebmodule
+Import-Package: example.services.api,
+ example2.ui.api
+Require-Bundle: com.vaadin;bundle-version="6.5.1"

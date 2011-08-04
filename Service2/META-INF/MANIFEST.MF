@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Service2
+Bundle-SymbolicName: Service2
+Bundle-Version: 1.0.0.qualifier
+Require-Bundle: com.vaadin;bundle-version="6.5.1"
+Service-Component: OSGI-INF/simpleservice2.xml
+Export-Package: example2.ui.api
+
+
